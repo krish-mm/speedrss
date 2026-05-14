@@ -1,0 +1,5 @@
+data/
+speedrss
+*.db
+*.db-shm
+*.db-wal
